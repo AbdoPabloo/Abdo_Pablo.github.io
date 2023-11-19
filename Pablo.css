@@ -1,0 +1,21 @@
+.div1 {
+    background-image: url(/HomeBanner.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 100vh 0vh; 
+    
+}
+
+.h1 {
+    position: absolute;
+    margin: -600px 0px 0px 100px;
+    color: white;
+
+}
+
+.p1 {
+    position: absolute;
+    margin: -500px 0px 0px 150px;
+    color: red;
+
+}
