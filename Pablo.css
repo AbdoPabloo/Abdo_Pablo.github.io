@@ -1,21 +1,59 @@
 .div1 {
-    background-image: url(/HomeBanner.svg);
+    background-image: url(./HomeBanner.svg);
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 100vh 0vh; 
-    
+    height: 100vh;
+    width: 100%;
 }
 
 .h1 {
     position: absolute;
-    margin: -600px 0px 0px 100px;
+    margin: 100px 0px 0px 10px;
     color: white;
 
 }
 
 .p1 {
     position: absolute;
-    margin: -500px 0px 0px 150px;
+    margin: 200px 0px 0px 15px;
     color: red;
 
 }
+
+#pph-hireme {
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 25px;
+
+}
+.wsm {
+    background-color: #d4d4d4;
+    border-left: 5px solid red;
+    display: inline-block;
+    Width: 800px;
+    margin-top: 50px;
+    
+
+}
+
+.p2 {
+    padding: 0px 0px 0px 10px;
+}
+
+.wsmimage {
+    background-image: url(./photo_2022-12-07_07-28-37.jpeg);
+    background-size: cover;
+    border: 2px solid red;
+    display: inline-block;
+    padding: 250px;
+    margin: 50px 0px 0px 180px;
+    border-radius: 14px;
+    position: absolute;
+
+}
+
+
+
+
+
+
